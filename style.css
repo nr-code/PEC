@@ -10,8 +10,8 @@
     display: inline-block;
     font-size: 1em;
     padding: 0.4em 0.4em;
-    /*margin-top: 100px;
-    margin-bottom: 100px;*/
+    margin-top: 10%;
+    margin-bottom: 10%;
     -webkit-appearance: none;
     appearance: none;
     background-color: #ff0081;
