@@ -29,3 +29,10 @@ p{
     text-align: right;
     color: blue;
 }
+
+p1{
+    text-align: justify;
+    color: black;
+    font-size: 1em;
+}
+
